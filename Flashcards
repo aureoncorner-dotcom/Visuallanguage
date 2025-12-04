@@ -1,0 +1,55 @@
+# CTA-PX Flashcards (ASCII Edition)
+
+Cut out, print, or screenshot.
+
+---
+
+## Card 1 — "I’m confused"
+```
+O ⟂
+```
+
+## Card 2 — "Stop / Wait"
+```
+O ↓
+```
+
+## Card 3 — "Explain again"
+```
+O ↑
+```
+
+## Card 4 — "I need help"
+```
+O X
+```
+
+## Card 5 — "Mixed up"
+```
+O ~ R
+```
+
+## Card 6 — "Reset"
+```
+↺ O
+```
+
+## Card 7 — "All good"
+```
+(O→R→S)
+```
+
+## Card 8 — "I need space"
+```
+O ←
+```
+
+## Card 9 — "I’m ready again"
+```
+→ O
+```
+
+## Card 10 — "We’re almost ok"
+```
+O_
+```
