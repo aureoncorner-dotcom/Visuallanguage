@@ -1,0 +1,84 @@
+# CTA-PX Symbol Dictionary (v1.0)
+
+A kid-friendly, human-friendly visual communication system.
+
+---
+
+## 1. Core Nodes
+
+| Symbol | Name         | Meaning (Adult)          | Meaning (Kid) |
+|--------|--------------|---------------------------|----------------|
+| O      | Observer     | Human perspective/state   | Me |
+| S      | Structure    | Interpretation/system     | You / The Other Person |
+| R      | Relation     | Shared meaning / overlap  | Us |
+
+---
+
+## 2. Action Vectors
+
+| Symbol | Meaning (Adult)           | Meaning (Kid) |
+|--------|----------------------------|----------------|
+| ↓      | Grounding / Stop          | Wait |
+| ↑      | Request clarity            | Huh? |
+| →      | Continue / forward motion | Go |
+| ←      | Pull back / need space    | Space |
+| ↘      | Disruption / break         | Something went wrong |
+| ↖      | Recovery / re-alignment    | Fixing |
+
+---
+
+## 3. Deformations
+
+| Symbol | Meaning (Adult)          | Meaning (Kid) |
+|--------|---------------------------|----------------|
+| ⟂      | Misalignment / confusion | I don’t get it |
+| X      | Collision / blocked       | Help |
+| _      | Residual wobble           | Almost ok |
+| ~      | Wobble / instability      | Mixed up |
+| ⊗      | Forced crossing (rail-call) | Stop + explain |
+
+---
+
+## 4. Flow Shapes
+
+| Shape            | Meaning (Adult)                 | Meaning (Kid) |
+|------------------|----------------------------------|----------------|
+| (O→R→S)          | Smooth flow / alignment          | All good |
+| (… )↘           | Flow break                       | Uh oh |
+| ( )_            | Flow restored w/ wobble          | It’s ok now |
+| ↺ O             | Reset                            | Do-over |
+| → O             | Re-entry                         | I’m ready |
+
+---
+
+## 5. Combined Phrases
+
+### Confusion
+```
+O ⟂ R
+```
+
+### Need space
+```
+O ←
+```
+
+### Request explanation
+```
+O ↑
+```
+
+### Need help
+```
+O X
+```
+
+### Reset
+```
+↺ O
+```
+
+### All good
+```
+(O→R→S)
+```
